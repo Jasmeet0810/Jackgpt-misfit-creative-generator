@@ -61,7 +61,7 @@ Welcome to **JackGPT** — a playful, AI-powered creative tool that generates un
 
 If you’d like to collaborate, use JackGPT for a campaign, or build your own creative AI tool:
 
-📧 jasmeet@example.com  
+📧 jasmeet08virdi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jasmeet-kaur-virdi/)  
 
 ---
